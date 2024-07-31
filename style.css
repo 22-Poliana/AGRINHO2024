@@ -1,6 +1,12 @@
 body{
-  background-color: rgb(182, 149, 212);
+  background-color: rgb(219, 213, 224);
 }
 h1{
   -ms-text-justify: distribute;
+}
+.img {
+  width: 25%;
+}
+.oi{
+  25%
 }
